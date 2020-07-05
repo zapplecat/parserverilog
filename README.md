@@ -1,5 +1,5 @@
 # parserverilog
-A example parser for verilog modules
+A example parser for verilog modules using [pyverilog](https://github.com/PyHDI/Pyverilog)
 
 ## Installation
 
